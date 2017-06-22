@@ -1,0 +1,30 @@
+{
+  "name": "allex_configrootserverruntimelib",
+  "version": "1.0.0",
+  "description": "AllexJS server side runtime lib to fetch the configuration root",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allex-serverruntime-libs/configroot.git"
+  },
+  "dependencies": {
+    "command-exists": "1.x"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "server",
+    "runtime",
+    "config",
+    "root",
+    "lib"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allex-serverruntime-libs/configroot/issues"
+  },
+  "homepage": "https://github.com/allex-serverruntime-libs/configroot#readme"
+}
