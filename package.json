@@ -1,6 +1,6 @@
 {
   "name": "allex_configrootserverruntimelib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AllexJS server side runtime lib to fetch the configuration root",
   "main": "index.js",
   "scripts": {
